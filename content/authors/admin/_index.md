@@ -84,25 +84,38 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
+  - icon: etsy
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
+    link: '/#contact'
+    link: https://elibrary.ru/project_user_office.asp
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
+    link: https://scholar.google.co.uk/citations?hl=ru&user=iqvMLl4AAAAJ&scilu=&scisig=ANVigOsAAAAAZiz-xWM4vJXM7AtYZi4JXjwXdfY&gmla=ABOlHixUcatrsMrzZCngPKS4CcXLOxCka_7pddLKQCr_C6uXtxagYAjT_S08Ez92S0JccJorn-2PcCABFkNZ8iy3HUV1c0_-ZR8MlBQYLBwsD0VEaL13d7TOhSvzWR7ruQLajpV_SMQCwg&sciund=6884275226109620540
+  - icon: orcid
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://orcid.org/
+  - icon: mendeley
+    icon_pack: fab
+    link: https://www.mendeley.com
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.researchgate.net/
+  - icon: academia
+    icon_pack: fab
+    link: https://independent.academia.edu/DaniilKazazaev
+  - icon: autoprefixer
+    icon_pack: fab
+    link: https://independent.academia.edu/DaniilKazazaev
+  - icon: archive
+    icon_pack: fas
+    link: https://arxiv.org/
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/KazazaevDaniil
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
+  - icon: elibrary
     icon_pack: ai
     link: uploads/resume.pdf
 
