@@ -88,7 +88,7 @@ sections:
         - certificate_url:
           date_end: '2023-07-02'
           date_start: '2012-09-01'
-          description: '11 долгих лет жизни. Горечь, радость, счастье, очаяние'
+          description: '11 долгих лет жизни. Горечь, радость, счастье, отчаяние'
           icon:
           organization: Школа
           organization_url:
